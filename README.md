@@ -72,8 +72,6 @@ Esta herramienta es exclusivamente para fines educativos, auditorías de segurid
 
 El autor no se hace responsable por el uso indebido de este script. Utilícelo bajo su propia responsabilidad y siempre con autorización previa.
 
-
-
 # Escáner Automático de Vulnerabilidades en Cámaras IP (`scanner.py`)
 
 Este script permite escanear automáticamente la red local en busca de dispositivos IoT o cámaras IP mal configuradas, vulnerables o que expongan información sensible a través de rutas y servicios conocidos. Funciona sin intervención manual previa, adaptándose a la red activa detectada.
